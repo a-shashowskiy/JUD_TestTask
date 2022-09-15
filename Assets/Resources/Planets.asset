@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1bc380313849a844b7fa40f7aa28810, type: 3}
+  m_Name: Planets
+  m_EditorClassIdentifier: 
+  planets:
+  - {fileID: 134308, guid: 718940f807eb53f4aa0c16d70080432d, type: 3}
+  - {fileID: 112350, guid: c38c830f1a01cc2419486a2e550473ee, type: 3}
+  - {fileID: 136468, guid: 3b6b2721de77cde4885fa48cd43c9f8d, type: 3}
+  - {fileID: 150180, guid: 4645135d15e70fa45824a3a594cb2b46, type: 3}
+  - {fileID: 150000, guid: c9df427deb000b548ba87af31d666589, type: 3}
+  - {fileID: 109314, guid: 7e606bbd20845a246b693fca327ac9c5, type: 3}
+  - {fileID: 180698, guid: 772a79796cfbe7149a55658d42b4726d, type: 3}
+  - {fileID: 102898, guid: 608f6bd5671f84c4eb4927a14bffe9fb, type: 3}
+  - {fileID: 128724, guid: 47f548d426fb1914bae887785a512d4b, type: 3}
+  - {fileID: 175674, guid: 915aaf898641f4c42b5b0bf6777bf232, type: 3}
+  - {fileID: 128632, guid: 836770c02ea056347a2033b490fe4f0d, type: 3}
+  - {fileID: 144004, guid: 765d85c64e1e9854a94ccb1eaa1f56db, type: 3}
+  - {fileID: 188694, guid: f2f3120c1bdbe1048b22872d840de803, type: 3}
+  - {fileID: 181524, guid: 76c5527a13ac58a4494ef594b2b03b75, type: 3}
+  - {fileID: 126364, guid: 26e950ddae2da3a4581a7692739c06fc, type: 3}
+  - {fileID: 124680, guid: ed9db51865b70e24d8a9214f83df5912, type: 3}
+  - {fileID: 127652, guid: 9bc7818d5f646e449a9a231e56b9bcb2, type: 3}
+  - {fileID: 189752, guid: 5bb6f67ac3a49004fb0e5b9174a1d1bb, type: 3}
+  - {fileID: 114230, guid: e47bb2f50258ed841b48fa1eef455833, type: 3}
+  - {fileID: 126892, guid: f5964d934705c9f4aa7ef77d1a1bc85c, type: 3}
+  - {fileID: 154168, guid: 9b81a1e9339b8bb4d90cdb180b6122d2, type: 3}
+  - {fileID: 151998, guid: 39c9a4332495ee04b8a6fb43b2a2f304, type: 3}
+  - {fileID: 139166, guid: 84c2617c34824af49a0ce8569549f42a, type: 3}
+  - {fileID: 199838, guid: 9740090b9019fec4885433a4c6d422d7, type: 3}
+  - {fileID: 159522, guid: 91a2ff99c55e0ff40873274bac746b14, type: 3}
+  - {fileID: 159522, guid: 0e66f862ac3e68c429da9f9aac1bb079, type: 3}
+  - {fileID: 159522, guid: b5ced9f6acfedcf42ba0cd4672b305ce, type: 3}
+  - {fileID: 159522, guid: 3898d41629554a344b1503479aa41d48, type: 3}
